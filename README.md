@@ -2,6 +2,7 @@
 
 This is a simple console-based number guessing game implemented in F#. It allows players to guess a randomly generated number within a specified range.
 
+![Console](https://github.com/aditya26062003/Number_Guess/blob/master/Screenshot%202024-05-25%20133913.png)
 ## Getting Started
 
 To run the game, you'll need the .NET SDK installed on your machine.
