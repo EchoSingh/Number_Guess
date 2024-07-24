@@ -2,7 +2,7 @@
 
 This is a simple console-based number guessing game implemented in F#. It allows players to guess a randomly generated number within a specified range.
 
-![Console](https://github.com/aditya26062003/Number_Guess/blob/master/Screenshot%202024-05-25%20133913.png)
+![Console](https://github.com/EchoSingh/Number_Guess/blob/master/Screenshot%202024-05-25%20133913.png)
 ## Getting Started
 
 To run the game, you'll need the .NET SDK installed on your machine.
@@ -10,7 +10,7 @@ To run the game, you'll need the .NET SDK installed on your machine.
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/aditya26062003/Number_Guess.git
+git clone https://github.com/EchoSingh/Number_Guess.git
 ```
 2. Navigate to the project directory:
 ```bash
